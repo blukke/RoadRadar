@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Radar\Radar\bin\Debug\Radar.exe.config
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.Form1.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.Properties.Resources.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\lucas\documents\visual studio 2015\Projects\Radar\Radar\obj\Debug\Radar.pdb
